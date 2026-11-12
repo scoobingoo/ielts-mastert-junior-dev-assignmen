@@ -72,7 +72,9 @@ npm test
 
 ## 5. Ảnh chụp giao diện
 
-Ảnh chụp giao diện thực tế được lưu tại file `screenshot.png` trong thư mục gốc của dự án.
+Ảnh chụp giao diện thực tế được lưu tại file `screenshot.png` trong thư mục gốc của dự án:
+
+![Ảnh giao diện Bài tập của tôi](./screenshot.png)
 
 ---
 
